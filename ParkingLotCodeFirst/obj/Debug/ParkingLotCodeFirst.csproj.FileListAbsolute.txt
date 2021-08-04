@@ -1,0 +1,6 @@
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\bin\Debug\ParkingLotCodeFirst.dll
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\bin\Debug\ParkingLotCodeFirst.pdb
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\obj\Debug\ParkingLotCodeFirst.csproj.AssemblyReference.cache
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\obj\Debug\ParkingLotCodeFirst.csproj.CoreCompileInputs.cache
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\obj\Debug\ParkingLotCodeFirst.dll
+D:\CODING\__PLAYGROUND\ITMO\ADO\ParkingLot\ParkingLot\ParkingLotCodeFirst\obj\Debug\ParkingLotCodeFirst.pdb
